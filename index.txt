@@ -1,3 +1,9 @@
-abstract
+
+abstract class myclass{
+
+public:
+  myslass(){}
 
 function ~myslass(){}
+};
+
