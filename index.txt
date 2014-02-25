@@ -1,3 +1,5 @@
 add index.txt
 
 printf("1");
+
+printf("2");
