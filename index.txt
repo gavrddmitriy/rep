@@ -7,3 +7,5 @@ public:
 function ~myslass(){}
 };
 
+
+ 1 
